@@ -1,5 +1,6 @@
 #root {
   margin: 16px;
+  text-align: center;
 }
 
 ul {
@@ -10,7 +11,8 @@ ul {
 li {
   list-style: none;
   margin: 8px;
-  padding: 8px;
+  padding: 10px;
   border: whitesmoke 3px solid;
   border-radius: 8px;
+  text-align: center;
 }
