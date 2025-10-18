@@ -5,6 +5,7 @@ import './App.css'
 import { resumeAndPrerenderToNodeStream } from 'react-dom/static'
 
 const App = () => {
+  // add use states for each part
  const [team, setTeam] = useState([]);
  const [money, setMoney] = useState(100)
  const [zombieFighters, setZombieFighters] = useState([
